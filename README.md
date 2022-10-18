@@ -31,7 +31,7 @@
 <h3>Dashboard</h3>
 <p align="center">
    <img src="images/global-performance.png"> 
-   <span>Click <a href="https://public.tableau.com/views/WallmartRetailDataVisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> to view on Tableau Public.</span>
+   <span>Click <a href="https://public.tableau.com/views/GlobalPerformanceDashboard_16661126684710/GlobalPer?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> to view on Tableau Public.</span>
 </p>
 
 <h3>Key Findings</h3> 
