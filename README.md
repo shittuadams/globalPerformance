@@ -1,17 +1,17 @@
 <h1 align="center">Global Superstore Performance Using Tableau</h1>
 <h4 align="center">18-10-2022</h4> 
 
-<h3>Business Task</h3> 
+<h3>Business Task/ Goal</h3> 
 <p>The purpose of this analysis is to gain insights into:</p>
 <ol>
-  <li>Wallmart's profit across all states in the United states;</li>
-  <li>the relationships between customers' age and the company's profits.</li>
+  <li>Superstore's profits/ loses worldwide in various countries;</li>
+  <li>Inform decision making as a result of the findings.</li>
 </ol>
 <h3>Data Sources</h3> 
-<p>The Wallmart dataset is google as part of a Youtube tutorial on "how to use Tableau to analyse data". <p>
-<p>A summary of the dataset is as follows:<p>
+<p>The Superstore dataset is online. Download the dataset <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank">here</a>.<p>
+
 <div>
-   The fields of the dataset are as follows: 
+   <p>The fields of the dataset are as follows:</p> 
    <p align="center">
    <img src="images/fields.png"> 
   </p>
@@ -22,11 +22,9 @@
 <h3>Data Visualization Process</h3>
 <p>The following steps were taken in Tableau:</p> 
 <ol>
-   <li>Average measures were calculated for Sales, Profit and Discount.</li>
-   <li>A map is created of all states in the United State. Average profit and sales per state are used as labels.</li>
-   <li>A bar chart is created in order to ascertain the relationsips between customers' ages and profits. The age measure is converted into Bins.</li>
-   <li>Regional Profits were tabulated an a yearly and quaterly basis.</li>
-   <li>A dashboard is created to nicely combine and present all the aforementioned chards.</li>
+   <li>Profits, discounts and average sales of all product categories and sub-categories are compared in order to draw relationships.</li>
+   <li>A map of all countries profits is created.</li>
+   <li>The map is used as a filter.</li>
 </ol>
 <h3>Dashboard</h3>
 <p align="center">
@@ -37,13 +35,12 @@
 <h3>Key Findings</h3> 
 <p>The following insights were discovered: </p>
 <ol>
-<li>Customers who are above are loss making for the business.</li>  
-<li>Profit is beginning to take an upward direction.</li> 
+<li>Sales of tables in the furniture category is not profitable.</li>  
+<li>Discounts for sales of tables for whatever reasons accounted for the loses from the sales of tables.</li> 
 </ol>
 <h3>Recommendations </h3>
 <ol>
-<li>Customers of ages less than 90 years old should be the focus of marketing campaigns.</li>  
+<li>Sales of tables should be discountinued in countries where loses are made which is caused by granting too much discounts, except their is a cogent reason for continuing the discounts.</li>  
 </ol>
 
-<br>
-<h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank">here</a>.</h4>
+
